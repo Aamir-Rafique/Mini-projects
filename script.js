@@ -3,37 +3,37 @@ const projects = [
     title: "To-Do List",
     image: "assets/todolist.png",
     techStack: ["HTML", "CSS", "JavaScript"],
-    link: ""
+    link: "https://aamir-rafique.github.io/To-do-list-html-css-js/"
   },
   {
     title: "Calculator",
     image: "assets/calculator.png",
     techStack: ["HTML", "CSS", "JavaScript"],
-    link: "https://yourusername.github.io/calculator"
+    link: "https://aamir-rafique.github.io/Calculator-html-css-javascript/"
   },
   {
     title: "Age Calculator",
     image: "assets/age-calculator.png",
     techStack: ["HTML", "CSS", "JavaScript"],
-    link: "https://yourusername.github.io/calculator"
+    link: "https://aamir-rafique.github.io/Age-calculator-html-css-javascript/"
   },
   {
     title: "Digital Clock",
     image: "assets/dig-clock.png",
     techStack: ["HTML", "CSS", "JavaScript"],
-    link: "https://yourusername.github.io/calculator"
+    link: "https://aamir-rafique.github.io/digital-clock-html-css-js/"
   },
   {
     title: "Rock Paper Scissor",
     image: "assets/rock-ppr-scissor.png",
     techStack: ["HTML", "CSS", "JavaScript"],
-    link: "https://yourusername.github.io/calculator"
+    link: "https://aamir-rafique.github.io/RockPaperScissor-game-html-css-js/"
   },
   {
     title: "Stopwatch",
     image: "assets/stopwatch.png",
     techStack: ["HTML", "CSS", "JavaScript"],
-    link: "https://yourusername.github.io/calculator"
+    link: "https://aamir-rafique.github.io/Stopwatch-html-css-js/"
   },
   {
     title: "AR Fitness",
@@ -46,7 +46,7 @@ const projects = [
     title: "AR Builders",
     image: "assets/arbuilders.png",
     techStack: ["HTML", "CSS"],
-    link: "https://yourusername.github.io/calculator"
+    link: "https://aamir-rafique.github.io/ar-builders-html-css/"
   }
 ];
 
