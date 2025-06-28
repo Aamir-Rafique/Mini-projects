@@ -32,7 +32,7 @@ Welcome to my web-based mini project showcase! This interactive portfolio is bui
 | # | Project       | Description                      | Tech Stack                 | Live Demo |
 |--:|---------------|----------------------------------|----------------------------|-----------|
 | 1 | **To-Do List**    | Add, complete, and delete daily tasks     | HTML, CSS, JS             | [Live](https://aamir-rafique.github.io/To-do-list-html-css-js/) |
-| 2 | **Age Calculator**   | Calculates your age| HTML, CSS, JS             | [Live](https://aamir-rafique.github.io/Age-calculator-html-css-javascript/ |
+| 2 | **Age Calculator**   | Calculates your age| HTML, CSS, JS             | [Live](https://aamir-rafique.github.io/Age-calculator-html-css-javascript/) |
 | 3 | **Calculator**    | Simple calculator with basic functions    | HTML, CSS, JS             | [Live](https://aamir-rafique.github.io/Calculator-html-css-javascript/) |
 | 4 | **Digital Clock**      | Live digital clock       | HTML, CSS, JS             | [Live](https://aamir-rafique.github.io/digital-clock-html-css-js/) |
 | 5 | **Stopwatch**     |  Stopwatch   | HTML, CSS, JS             | [Live](https://aamir-rafique.github.io/Stopwatch-html-css-js/) |
