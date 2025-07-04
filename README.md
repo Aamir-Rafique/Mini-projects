@@ -21,6 +21,7 @@ Welcome to my web-based mini project showcase! This interactive portfolio is bui
 - HTML5
 - CSS3
 - Vanilla JavaScript
+- Tailwind CSS
 - Git & GitHub for version control
 - GitHub Pages for deployment
 
@@ -35,9 +36,10 @@ Welcome to my web-based mini project showcase! This interactive portfolio is bui
 | 2 | **Age Calculator**   | Calculates your age| HTML, CSS, JS             | [Live](https://aamir-rafique.github.io/Age-calculator-html-css-javascript/) |
 | 3 | **Calculator**    | Simple calculator with basic functions    | HTML, CSS, JS             | [Live](https://aamir-rafique.github.io/Calculator-html-css-javascript/) |
 | 4 | **Digital Clock**      | Live digital clock       | HTML, CSS, JS             | [Live](https://aamir-rafique.github.io/digital-clock-html-css-js/) |
-| 5 | **Stopwatch**     |  Stopwatch   | HTML, CSS, JS             | [Live](https://aamir-rafique.github.io/Stopwatch-html-css-js/) |
-| 6 | **Rock Paper Scissor**   | Game  | HTML, CSS, JS             | [Live](https://aamir-rafique.github.io/RockPaperScissor-game-html-css-js/) |
-| 7 | **AR Builders**   |  Practice site  | HTML, CSS           | [Live](https://aamir-rafique.github.io/RockPaperScissor-game-html-css-js/) |
+| 5 | **Currency Converter**   |  Practice site  | HTML, CSS, JS        | [Live](https://aamir-rafique.github.io/currency-converter-html-css-js/) |
+| 6 | **Stopwatch**     |  Stopwatch   | HTML, CSS, JS             | [Live](https://aamir-rafique.github.io/Stopwatch-html-css-js/) |
+| 7 | **Rock Paper Scissor**   | Game  | HTML, CSS, JS             | [Live](https://aamir-rafique.github.io/RockPaperScissor-game-html-css-js/) |
+| 8 | **AR Builders**   |  Practice site  | HTML, CSS           | [Live](https://aamir-rafique.github.io/RockPaperScissor-game-html-css-js/) |
 
 ---
 ## 🧑‍💻 Author
