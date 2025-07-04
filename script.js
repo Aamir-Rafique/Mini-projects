@@ -17,23 +17,31 @@ const projects = [
     techStack: ["HTML", "CSS", "JavaScript"],
     link: "https://aamir-rafique.github.io/Age-calculator-html-css-javascript/"
   },
-  {
-    title: "Digital Clock",
-    image: "assets/dig-clock.png",
-    techStack: ["HTML", "CSS", "JavaScript"],
-    link: "https://aamir-rafique.github.io/digital-clock-html-css-js/"
-  },
+ 
   {
     title: "Rock Paper Scissor",
     image: "assets/rock-ppr-scissor.png",
     techStack: ["HTML", "CSS", "JavaScript"],
     link: "https://aamir-rafique.github.io/RockPaperScissor-game-html-css-js/"
   },
+ 
+  {
+    title: "Currency Converter",
+    image: "assets/currency-converter.png",
+    techStack: ["HTML", "CSS", "JavaScript"],
+    link: "https://aamir-rafique.github.io/currency-converter-html-css-js/"
+  },
   {
     title: "Stopwatch",
     image: "assets/stopwatch.png",
     techStack: ["HTML", "CSS", "JavaScript"],
     link: "https://aamir-rafique.github.io/Stopwatch-html-css-js/"
+  },
+   {
+    title: "Digital Clock",
+    image: "assets/dig-clock.png",
+    techStack: ["HTML", "CSS", "JavaScript"],
+    link: "https://aamir-rafique.github.io/digital-clock-html-css-js/"
   },
   {
     title: "AR Fitness",
