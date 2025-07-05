@@ -40,6 +40,7 @@ Welcome to my web-based mini project showcase! This interactive portfolio is bui
 | 6 | **Stopwatch**     |  Stopwatch   | HTML, CSS, JS             | [Live](https://aamir-rafique.github.io/Stopwatch-html-css-js/) |
 | 7 | **Rock Paper Scissor**   | Game  | HTML, CSS, JS             | [Live](https://aamir-rafique.github.io/RockPaperScissor-game-html-css-js/) |
 | 8 | **AR Builders**   |  Practice site  | HTML, CSS           | [Live](https://aamir-rafique.github.io/RockPaperScissor-game-html-css-js/) |
+| 9 | **Weather App**   |  Practice site  | HTML, TailWindCSS, JS          | [Live](https://aamir-rafique.github.io/weather-app-html-tailwindcss-js/) |
 
 ---
 ## 🧑‍💻 Author
