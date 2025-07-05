@@ -1,49 +1,48 @@
 const projects = [
-    {
+  {
     title: "Weather App",
-    image: "assets/weatherApp.webp",
+    image: "assets/weatherapp.webp",
     techStack: ["HTML", "Tailwind CSS", "JavaScript"],
     link: "https://aamir-rafique.github.io/weather-app-html-tailwindcss-js/"
   },
-    {
-    title: "To-Do List",
-    image: "assets/todolist.png",
+  {
+    title: "Currency Converter",
+    image: "assets/currencyconverter.webp",
+    techStack: ["HTML", "CSS", "JavaScript"],
+    link: "https://aamir-rafique.github.io/currency-converter-html-css-js/"
+  },
+  {
+    title: "To-Do List App",
+    image: "assets/todolist.webp",
     techStack: ["HTML", "CSS", "JavaScript"],
     link: "https://aamir-rafique.github.io/To-do-list-html-css-js/"
   },
   {
     title: "Calculator",
-    image: "assets/calculator.png",
+    image: "assets/simplecalculator.webp",
     techStack: ["HTML", "CSS", "JavaScript"],
     link: "https://aamir-rafique.github.io/Calculator-html-css-javascript/"
   },
-  {
-    title: "Age Calculator",
-    image: "assets/age-calculator.png",
-    techStack: ["HTML", "CSS", "JavaScript"],
-    link: "https://aamir-rafique.github.io/Age-calculator-html-css-javascript/"
-  },
- 
+
   {
     title: "Rock Paper Scissor",
-    image: "assets/rock-ppr-scissor.png",
+    image: "assets/rockpaperscissor.webp",
     techStack: ["HTML", "CSS", "JavaScript"],
     link: "https://aamir-rafique.github.io/RockPaperScissor-game-html-css-js/"
   },
- 
   {
-    title: "Currency Converter",
-    image: "assets/currency-converter.png",
+    title: "Age Calculator",
+    image: "assets/agecalculator.webp",
     techStack: ["HTML", "CSS", "JavaScript"],
-    link: "https://aamir-rafique.github.io/currency-converter-html-css-js/"
+    link: "https://aamir-rafique.github.io/Age-calculator-html-css-javascript/"
   },
   {
     title: "Stopwatch",
-    image: "assets/stopwatch.png",
+    image: "assets/stopwatch.webp",
     techStack: ["HTML", "CSS", "JavaScript"],
     link: "https://aamir-rafique.github.io/Stopwatch-html-css-js/"
   },
-   {
+  {
     title: "Digital Clock",
     image: "assets/dig-clock.png",
     techStack: ["HTML", "CSS", "JavaScript"],
