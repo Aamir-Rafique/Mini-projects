@@ -1,7 +1,7 @@
 const projects = [
   {
     title: "Weather App",
-    image: "assets/weatherapp.webp", 
+    image: "assets/weatherApp.png", 
     techStack: ["HTML", "Tailwind CSS", "JavaScript"],
     link: "https://aamir-rafique.github.io/weather-app-html-tailwindcss-js/"
   },
@@ -67,6 +67,7 @@ const container = document.getElementById("projectContainer");
 
 projects.forEach(project => {
   const card = document.createElement("a");
+  card.title=`${project.title}`;
   card.className = "project-card";
   card.href = project.link;
   card.target = "_blank"; // opens in a new tab
