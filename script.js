@@ -1,7 +1,7 @@
 const projects = [
   {
     title: "Weather App",
-    image: "assets/weatherapp.webp",
+    image: "assets/weatherapp.webp", 
     techStack: ["HTML", "Tailwind CSS", "JavaScript"],
     link: "https://aamir-rafique.github.io/weather-app-html-tailwindcss-js/"
   },
